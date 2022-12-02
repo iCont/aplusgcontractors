@@ -30,8 +30,8 @@
                         <div class="col-12  questions_text hero_text">
                             <div class="questions_wrap">
                                 <div class="col-12 text-center">
-                                    <h2 class="hero_title text-center" data-aos="zoom-in"> THE BEST CONSTRUCTION & <br>
-                                        REMODELING HOME IN UTAH</h2>
+                                    <h2 class="hero_title text-center" data-aos="zoom-in"> CONSIDERED ONE OF THE BEST HOME CONSTRUCTION & <br>
+                                        REMODELING COMPANIES IN UTAH</h2>
                                     <img id="logo_hero" class="" data-aos="zoom-in" src="{{ asset('img/logo.png') }}" alt="logo marzo">
                                     <br>
                                     <button class="btn-first margin_top_single " data-aos="zoom-in">Contact Us now</button>
@@ -234,6 +234,9 @@
         <section class="testimonials py-5">
             <div class="container">
                 <div class="row">
+                    <div class="col-12">
+                        <div class='bz-bdg'><a target='_blank' title='BuildZoom.com' href='https://www.buildzoom.com/contractor/a-plus-general-contractors-llc?ad_location=co_website'><img alt='BuildZoom.com' width='230px' height='auto' border='0' src='https://badges.buildzoom.com/2021/t5d2.png' /></a><a target='_blank' href='https://www.buildzoom.com/murray-ut/general-contractors?ad_location=co_website'>General Contractor in Murray</a><img width='1px' height='1px' alt='' src='https://track.buildzoom.com/badge_load?track_id=L4XOMJ&entity=Contractor&event_type=impression&ad_type=contractor_badge' /></div>
+                    </div>
                     <div class="col-12 text-center my-5">
                         <h2>Testimonials</h2>
                     </div>

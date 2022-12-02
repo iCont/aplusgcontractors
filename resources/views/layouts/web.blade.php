@@ -46,6 +46,7 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- sweetalert -->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <style> .bz-bdg{width: 230px;}.bz-bdg>a{display: block;font-family: Helvetica;font-size: 9px;font-weight: 500;text-align: center;margin-top: 4px; color: #484848;line-height: 10px;}.bz-bdg .small-label {margin-top:-12px;padding: 0 10px;}</style>
 </head>
 
 <body class="body">
